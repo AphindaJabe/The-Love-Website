@@ -1,0 +1,15 @@
+{
+  "hash": "b8c1f75bc748b716da6ccf4059d28373",
+  "result": {
+    "engine": "knitr",
+    "markdown": "\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\nHi Baby ❤️ \nJust a reminder that: \n• I miss you \n• You mean a lot to me \n• I appreciate you \n• I’m always rooting for you \n• I am proud of you Dr. ILM!!! \n\nHappy Valentine’s Day \nLove, Your Girl\n```\n\n\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

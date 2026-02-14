@@ -1,0 +1,32 @@
+{
+    "id": "8C5E918D",
+    "path": "~/The Love Website/secret.qmd",
+    "project_path": "secret.qmd",
+    "type": "quarto_markdown",
+    "hash": "2293820910",
+    "contents": "",
+    "dirty": false,
+    "created": 1771030291215.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,37",
+        "scrollLine": "16",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "54:84.80000305175781",
+        "docOutlineSize": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1771051938,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1771051938485,
+    "read_only": false,
+    "read_only_alternatives": []
+}

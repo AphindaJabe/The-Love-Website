@@ -1,0 +1,21 @@
+``` {r echo=FALSE}
+# Cute message variables
+name <- "Baby"
+from <- "Your Girl"
+
+message <- paste(
+  "Hi", name, "❤️",
+  "\nJust a reminder that:",
+  "\n• I miss you",
+  "\n• You mean a lot to me",
+  "\n• I appreciate you",
+  "\n• I’m always rooting for you",
+  "\n• I am proud of you Dr. ILM!!!",
+  "\n\nHappy Valentine’s Day",
+  "\nLove,", from
+)
+
+cat(message)
+
+
+```

@@ -1,0 +1,25 @@
+---
+title: "For My Love ❤️"
+format: html
+---
+
+## Welcome to our love nest ❤️
+::: {.center}
+
+![](website pic.JPG){ width=400px }
+
+### You and Me
+
+Even across distance,\
+my heart yearns for you.
+
+I made this for you.\
+I know it is not perfect,\
+but it is to remind you:
+
+-   Once again that I miss you 🥹\
+-   How much you mean to me\
+-   How deeply I love you
+
+❤️ Always yours,\
+Aphinda
