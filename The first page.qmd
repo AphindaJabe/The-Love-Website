@@ -11,7 +11,7 @@ message <- paste(
   "\n• I appreciate you",
   "\n• I’m always rooting for you",
   "\n• I am proud of you Dr. ILM!!!",
-  "\n\nHappy Valentine’s Day",
+  "\n\nHappy Valentine’s Day mntuwam.",
   "\nLove,", from
 )
 
